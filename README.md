@@ -1,4 +1,4 @@
-# Growing with tech --> Growing tech-
+# Growing with tech --> Growing tech
 Data visualization project for IS219 - Advanced Web Dev. Here I'll be exploring the influence of technology on degree choices.
 
 - Essential question - Are those who grew up with a heavy technology presence (gen z) more likely to persue STEM degrees?
